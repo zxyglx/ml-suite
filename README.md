@@ -21,7 +21,6 @@ The ML Suite requires the installation of the Anaconda2 Virtual Environment Mana
 Once your environment is set up, take a look at some of the command line tutorials and Jupyter Notebooks here:
 - [Tutorials][]
 
-To run the tutorials you will need to download the trained [models]. 
 
 ## Minimum System Requirements
 - OS: Ubuntu 16.04.2 LTS, CentOS
